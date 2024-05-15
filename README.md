@@ -8,4 +8,4 @@ Final Assignment of the Coursera course by IBM
   - r, annual rate of interest
 
 **Output:**
-  - simple interest = p*t*r
+  - simple interest = p * t * r
